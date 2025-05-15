@@ -1,0 +1,40 @@
+{
+  "Software_Engineer": {
+    "tasks": [
+      "Debug a production issue using error logs",
+      "Design and implement a new feature",
+      "Code review a colleague's pull request"
+    ],
+    "required_skills": [
+      "Programming",
+      "Problem Solving",
+      "Version Control",
+      "Testing"
+    ],
+    "tools": [
+      "Git",
+      "IDE",
+      "Command Line",
+      "Debugging Tools"
+    ]
+  },
+  "Product_Manager": {
+    "tasks": [
+      "Prioritize feature requests from stakeholders",
+      "Write a product requirements document",
+      "Lead a sprint planning meeting"
+    ],
+    "required_skills": [
+      "Communication",
+      "Strategic Thinking",
+      "User Empathy",
+      "Data Analysis"
+    ],
+    "tools": [
+      "JIRA",
+      "Product Analytics",
+      "Prototyping Tools",
+      "Documentation"
+    ]
+  }
+} 

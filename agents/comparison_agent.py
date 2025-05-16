@@ -18,4 +18,4 @@ class ComparisonAgent:
                 "cons": []
             },
             "recommendation": ""
-        } 
+        }

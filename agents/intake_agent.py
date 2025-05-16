@@ -1,5 +1,5 @@
 from typing import Dict, List
-
+#gathers basic profile info
 class IntakeAgent:
     def __init__(self):
         self.questions = [
